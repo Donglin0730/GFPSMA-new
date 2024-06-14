@@ -1,0 +1,1 @@
+Yujia Liu, Ziyi Chen, Wenqing Xiong, Donglin Zhu, Changjun Zhou. GFPSMA: An improved algorithm based on flower pollination, slime mould, and game inspiration for global optimization[J]. Electronic Research Archive, 2024, 32(6): 3867-3936.
